@@ -81,6 +81,7 @@ The system consists of several key components:
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## 👥 Authors
+@Ang3lPC
 
 ## 🙏 Acknowledgments
 
